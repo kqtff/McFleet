@@ -5,7 +5,7 @@ Player stats for McFleet (Minecraft), exported from MongoDB.
 ## Layout
 
 ```
-player stats/           # one JSON file per player
+player stats/     
   KqTF.json
   ...
 top players/
@@ -16,17 +16,9 @@ top players/
   Top 100/
 ```
 
-### top players
 
-Each `Top N` folder contains:
-
-| File | What it is |
-|------|------------|
-| `leaderboard.json` | Top N players by wins (then final kills, kills) |
-| `totals.json` | Sum of all numeric stats for those Top N |
-| `by_stat.json` | Top N for every stat + totals |
-| `players/` | Individual ranked files (`001_Username.json`, …) |
 
 ## Source
 
-`stats` database → `stats` collection → document `_id: "players"`.
+<img width="750" height="1000" alt="image" src="https://github.com/user-attachments/assets/509d7332-8bb1-4003-bde2-fb7fcff92b1a" />
+
