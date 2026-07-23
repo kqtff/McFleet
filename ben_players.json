@@ -1,0 +1,20 @@
+{
+  "username": "ben_players",
+  "rank": "1",
+  "current_win_streak": 0,
+  "top_win_streak": 0,
+  "won": 0,
+  "lost": 1,
+  "rounds_played": 1,
+  "w_l": 0.0,
+  "kills": 1,
+  "top_kill_streak": 1,
+  "final_kills": 0,
+  "deaths": 4,
+  "final_deaths": 1,
+  "k_d": 0.25,
+  "final_k_d": 0.0,
+  "beds_destroyed": 0,
+  "time_played": "2m 50s",
+  "updated": 1774191404722
+}
